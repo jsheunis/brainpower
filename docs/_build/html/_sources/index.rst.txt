@@ -10,8 +10,6 @@ Welcome to brainpower's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   mainpage
-
 
 
 Indices and tables
