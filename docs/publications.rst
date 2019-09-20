@@ -5,16 +5,34 @@ Useful publications
 Journal articles
 ****************
 
-* Schönbrodt et al. 2017: Sequential Hypothesis Testing With Bayes Factors: Efficiently Testing Mean Differences
-* Schönbrodt & Wagenmakers 2018: Bayes factor design analysis: Planning for compelling evidence
-* Chen et al 2019: Handling Multiplicity in Neuroimaging Through Bayesian Lenses with Multilevel Modeling
-* Ostwald, Schneider, Bruckner, Horvath, bioRxiv: Power, positive predictive value, and sample size calculations for random field theory-based fMRI inference
-* Ellis et al. bioRxiv: Facilitating open-science with realistic fMRI simulation: validation and application (link to code) (BrainIAK, fMRIsim)
-* Mumford 2012: A Power calculation guide for fMRI studies
-* Durnez et al, 2016, bioRxiv: Power and sample size calculations for fMRI studies based on the prevalence of active peaks
-* Durnez, 2018, bioRxiv: Neurodesign: Optimal experimental designs for task fMRI
+* `Mumford - 2012`: A Power calculation guide for fMRI studies
+* `Durnez et al - 2016`: Power and sample size calculations for fMRI studies based on the prevalence of active peaks
+* `Schönbrodt et al - 2017`: Sequential Hypothesis Testing With Bayes Factors: Efficiently Testing Mean Differences
+* `Schönbrodt & Wagenmakers - 2018`: Bayes factor design analysis: Planning for compelling evidence
+* `Durnez, Blair, & Poldrack - 2018`: Neurodesign: Optimal experimental designs for task fMRI
+* `Chen et al - 2019`: Handling Multiplicity in Neuroimaging Through Bayesian Lenses with Multilevel Modeling
+* `Ostwald, Schneider, Bruckner & Horvat - `: Power, positive predictive value, and sample size calculations for random field theory-based fMRI inference
+* `Ellis et al - 2019`: Facilitating open-science with realistic fMRI simulation: validation and application (`code on github`, `site`)
+
+.. _Mumford 2012: https://www.ncbi.nlm.nih.gov/pubmed/22641837
+.. _Durnez et al - 2016: https://www.biorxiv.org/content/10.1101/049429v1
+.. _Schönbrodt et al - 2017: https://www.ncbi.nlm.nih.gov/pubmed/26651986
+.. _Schönbrodt & Wagenmakers - 2018: https://www.ncbi.nlm.nih.gov/pubmed/28251595
+.. _Durnez, Blair, & Poldrack - 2018: https://www.biorxiv.org/content/10.1101/119594v2
+.. _Chen et al - 2019: https://www.ncbi.nlm.nih.gov/pubmed/30649677
+.. _Ostwald, Schneider, Bruckner, Horvath - 2019: https://www.biorxiv.org/content/10.1101/613331v2
+.. _Ellis et al - 2019: https://www.biorxiv.org/content/10.1101/532424v2
+.. _code on github: https://github.com/brainiak/brainiak
+.. _site: https://brainiak.org/
+
+
+
 
 Blog posts
 **********
 
+* `How a power analysis implicitly reveals the smallest effect size you care about`
+* `A power analysis approach that needs to end`
 
+.. _How a power analysis implicitly reveals the smallest effect size you care about: http://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html
+.. _A power analysis approach that needs to end: https://mumfordbrainstats.tumblr.com/post/146309408536/a-power-analysis-approach-that-needs-to-end
