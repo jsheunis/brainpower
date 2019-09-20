@@ -17,15 +17,18 @@ How to define an effect size?
 
 Tools for univariate power analysis
 ***********************************
-* G*Power, Pangea
+* `G*Power`, `Pangea`
 * Suited if clearly defined ROIs/ localizers are available
 * How to clearly define ROIs? How to define ROIs on a subject-specific level?
 * G*Power is suitable for very particular questions/ analyses, but require many decisions a-priori → defining ROIs, defining summary statistics on ROIs
 * Can even increase power (e.g. for very small volumes) because you avoid correction for multiple comparisons
 
+.. _G*Power: http://www.gpower.hhu.de/
+.. _Pangea: https://jakewestfall.shinyapps.io/pangea/
+
 Tools for 3-dimentional power analysis
 **************************************
-* Simulation: take available (resting-state) with a realistic noise profile, add an effect of a certain extent and strength, see if your (preprocessing + analysis) finds it
+* Simulation: take available data set (resting-state) with a realistic noise profile, add an effect of a certain extent and strength, see if your (preprocessing + analysis) finds it
 * What are the parameters to vary?
 	* Sample size
 	* Effect strength/ extend
