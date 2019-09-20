@@ -17,13 +17,13 @@ How to define an effect size?
 
 Tools for univariate power analysis
 ***********************************
-* `G*Power`, `Pangea`
+* GPower_, Pangea_
 * Suited if clearly defined ROIs/ localizers are available
 * How to clearly define ROIs? How to define ROIs on a subject-specific level?
 * G*Power is suitable for very particular questions/ analyses, but require many decisions a-priori → defining ROIs, defining summary statistics on ROIs
 * Can even increase power (e.g. for very small volumes) because you avoid correction for multiple comparisons
 
-.. _G*Power: http://www.gpower.hhu.de/
+.. _GPower: http://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html
 .. _Pangea: https://jakewestfall.shinyapps.io/pangea/
 
 Tools for 3-dimentional power analysis
