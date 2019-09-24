@@ -5,12 +5,12 @@ Useful publications
 Journal articles
 ****************
 
-* `Mumford 2012`_ : A Power calculation guide for fMRI studies
-* `Durnez et al 2016`_ : Power and sample size calculations for fMRI studies based on the prevalence of active peaks
-* `Schönbrodt et al 2017`_ : Sequential Hypothesis Testing With Bayes Factors: Efficiently Testing Mean Differences
-* `Schönbrodt and Wagenmakers 2018`_ : Bayes factor design analysis: Planning for compelling evidence
-* `Durnez et al 2018`_ : Neurodesign: Optimal experimental designs for task fMRI
-* `Chen et al 2019`_ : Handling Multiplicity in Neuroimaging Through Bayesian Lenses with Multilevel Modeling
+* `Mumford 2012`_: A Power calculation guide for fMRI studies
+* `Durnez et al 2016`_: Power and sample size calculations for fMRI studies based on the prevalence of active peaks
+* `Schönbrodt et al 2017`_: Sequential Hypothesis Testing With Bayes Factors: Efficiently Testing Mean Differences
+* `Schönbrodt and Wagenmakers 2018`_: Bayes factor design analysis: Planning for compelling evidence
+* `Durnez et al 2018`_: Neurodesign: Optimal experimental designs for task fMRI
+* `Chen et al 2019`_: Handling Multiplicity in Neuroimaging Through Bayesian Lenses with Multilevel Modeling
 * `Ostwald et al 2019`_: Power, positive predictive value, and sample size calculations for random field theory-based fMRI inference
 * `Ellis et al 2019`_: Facilitating open-science with realistic fMRI simulation: validation and application (`code on github`_, `site`_)
 
