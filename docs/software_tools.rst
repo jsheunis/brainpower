@@ -1,6 +1,8 @@
 Software tools
 ==============
 
+Tools for conducting power analysis for neuroimaging data.
+
 G*Power
 *******
 * A flexible statistical power analysis program for the social, behavioral, and biomedical sciences

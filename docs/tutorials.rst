@@ -1,5 +1,4 @@
 Tutorials
 =========
 
-
--- to be populated --
+-- to be updated, contributors welcome! --

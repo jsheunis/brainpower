@@ -4,9 +4,9 @@ Things to consider
 
 Why conduct a power analysis?
 *****************************
-* Determine your sample size
-* Determine whether it is even possible to find an effect with the given means (technical settings, available budget for subjects)
-* Optimizing your pre-processing software given your scanner settings (collect your own resting state data as a template)
+* To determine your sample size
+* To determine whether it is even possible to find an effect with the given means (technical settings, available budget for subjects)
+* To optimize your pre-processing software given your scanner settings
 
 How to define an effect size?
 *****************************
@@ -34,5 +34,4 @@ Tools for 3-dimentional power analysis
 	* Effect strength/ extend
 	* Noise profile
 	* Using nuisance regressors or not
-	* Can this be easily extended to M/EEG, because it’s also high-dimensional?
 

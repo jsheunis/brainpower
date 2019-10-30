@@ -31,8 +31,8 @@ Journal articles
 Blog posts
 **********
 
-* `How a power analysis implicitly reveals the smallest effect size you care about`_
-* `A power analysis approach that needs to end`_
+* `Lakens 2017`_: How a power analysis implicitly reveals the smallest effect size you care about
+* `Mumford 2016`_: A power analysis approach that needs to end
 
-.. _How a power analysis implicitly reveals the smallest effect size you care about: http://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html
-.. _A power analysis approach that needs to end: https://mumfordbrainstats.tumblr.com/post/146309408536/a-power-analysis-approach-that-needs-to-end
+.. _Lakens 2017: http://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html
+.. _Mumford 2016: https://mumfordbrainstats.tumblr.com/post/146309408536/a-power-analysis-approach-that-needs-to-end
