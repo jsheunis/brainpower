@@ -23,6 +23,7 @@ About
 -----
 
 At some stage in an empirical neuroimaging research project that aims to find evidence for or against an effect, sample size and statistical power calculations should be considered. This process aims to shed light on questions like:
+
 * how big is the effect size of interest?
 * how many study participants, data acquisition runs and trials are needed?
 * how likely will the effect be found in the data, given practical constrains?
